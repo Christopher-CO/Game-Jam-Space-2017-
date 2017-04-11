@@ -1,11 +1,12 @@
 "# spacejam2017" 
 
-Helpful commands: 
+Take note: 
 
-GitHub doesn't let you push files to repo >100MB in size. 
-Need to make sure when you commit that you're ignoring super-big files.
+Unity projects have a bunch of assets way over GitHub's individual file size limits, so we have to use something called Git Large File Storage (git lfs) to be able to push repositories. 
 
-Use: 
-find . -size +100M | sed 's|^\./||g' | cat >> .gitignore; awk '!NF || !seen[$0]++' .gitignore
+Get it here: https://git-lfs.github.com/
 
-See: http://stackoverflow.com/questions/4035779/gitignore-by-file-size
+Make sure you run 'git lfs install'
+
+If you run into problems, this is also helpful: 
+https://github.com/git-lfs/git-lfs
