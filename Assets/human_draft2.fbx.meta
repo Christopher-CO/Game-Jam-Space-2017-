@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 5e2da81cda9743d43870a5d0d0771e06
+timeCreated: 1491457230
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Cube
+    100004: //RootNode
+    100006: prime
+    100008: root
+    100010: root.001
+    100012: root.002
+    100014: root.003
+    100016: root.004
+    100018: root.005
+    100020: root.006
+    100022: root.006_end
+    100024: root.007
+    100026: root.008
+    100028: root.009
+    100030: root.009_end
+    100032: root.010
+    100034: root.011
+    100036: root.011_end
+    100038: root.012
+    100040: root.013
+    100042: root.014
+    100044: root.015
+    100046: root.016
+    100048: root.017
+    100050: root.018
+    100052: root.019
+    100054: root.020
+    100056: root.020_end
+    100058: root.021
+    100060: root.021_end
+    400000: Armature
+    400002: Cube
+    400004: //RootNode
+    400006: prime
+    400008: root
+    400010: root.001
+    400012: root.002
+    400014: root.003
+    400016: root.004
+    400018: root.005
+    400020: root.006
+    400022: root.006_end
+    400024: root.007
+    400026: root.008
+    400028: root.009
+    400030: root.009_end
+    400032: root.010
+    400034: root.011
+    400036: root.011_end
+    400038: root.012
+    400040: root.013
+    400042: root.014
+    400044: root.015
+    400046: root.016
+    400048: root.017
+    400050: root.018
+    400052: root.019
+    400054: root.020
+    400056: root.020_end
+    400058: root.021
+    400060: root.021_end
+    4300000: Cube
+    7400000: HumanIdle
+    7400002: Armature|Cube.002Action
+    7400004: HumanWalk
+    9500000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: HumanIdle
+      takeName: Armature|ArmatureAction
+      firstFrame: 1
+      lastFrame: 165
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/prime
+        weight: 1
+      - path: Armature/prime/root
+        weight: 1
+      - path: Armature/prime/root/root.001
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002/root.003
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002/root.003/root.004
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002/root.003/root.004/root.005
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002/root.003/root.004/root.005/root.006
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002/root.003/root.004/root.005/root.006/root.006_end
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002/root.003/root.007
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002/root.003/root.007/root.008
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002/root.003/root.007/root.008/root.009
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002/root.003/root.007/root.008/root.009/root.009_end
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002/root.003/root.010
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002/root.003/root.010/root.011
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002/root.003/root.010/root.011/root.011_end
+        weight: 1
+      - path: Armature/prime/root/root.012
+        weight: 1
+      - path: Armature/prime/root/root.012/root.014
+        weight: 1
+      - path: Armature/prime/root/root.012/root.014/root.016
+        weight: 1
+      - path: Armature/prime/root/root.012/root.014/root.016/root.018
+        weight: 1
+      - path: Armature/prime/root/root.012/root.014/root.016/root.018/root.020
+        weight: 1
+      - path: Armature/prime/root/root.012/root.014/root.016/root.018/root.020/root.020_end
+        weight: 1
+      - path: Armature/prime/root/root.013
+        weight: 1
+      - path: Armature/prime/root/root.013/root.015
+        weight: 1
+      - path: Armature/prime/root/root.013/root.015/root.017
+        weight: 1
+      - path: Armature/prime/root/root.013/root.015/root.017/root.019
+        weight: 1
+      - path: Armature/prime/root/root.013/root.015/root.017/root.019/root.021
+        weight: 1
+      - path: Armature/prime/root/root.013/root.015/root.017/root.019/root.021/root.021_end
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HumanWalk
+      takeName: Armature|ArmatureAction
+      firstFrame: 247
+      lastFrame: 267
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/prime
+        weight: 1
+      - path: Armature/prime/root
+        weight: 1
+      - path: Armature/prime/root/root.001
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002/root.003
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002/root.003/root.004
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002/root.003/root.004/root.005
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002/root.003/root.004/root.005/root.006
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002/root.003/root.004/root.005/root.006/root.006_end
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002/root.003/root.007
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002/root.003/root.007/root.008
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002/root.003/root.007/root.008/root.009
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002/root.003/root.007/root.008/root.009/root.009_end
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002/root.003/root.010
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002/root.003/root.010/root.011
+        weight: 1
+      - path: Armature/prime/root/root.001/root.002/root.003/root.010/root.011/root.011_end
+        weight: 1
+      - path: Armature/prime/root/root.012
+        weight: 1
+      - path: Armature/prime/root/root.012/root.014
+        weight: 1
+      - path: Armature/prime/root/root.012/root.014/root.016
+        weight: 1
+      - path: Armature/prime/root/root.012/root.014/root.016/root.018
+        weight: 1
+      - path: Armature/prime/root/root.012/root.014/root.016/root.018/root.020
+        weight: 1
+      - path: Armature/prime/root/root.012/root.014/root.016/root.018/root.020/root.020_end
+        weight: 1
+      - path: Armature/prime/root/root.013
+        weight: 1
+      - path: Armature/prime/root/root.013/root.015
+        weight: 1
+      - path: Armature/prime/root/root.013/root.015/root.017
+        weight: 1
+      - path: Armature/prime/root/root.013/root.015/root.017/root.019
+        weight: 1
+      - path: Armature/prime/root/root.013/root.015/root.017/root.019/root.021
+        weight: 1
+      - path: Armature/prime/root/root.013/root.015/root.017/root.019/root.021/root.021_end
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

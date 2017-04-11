@@ -1,0 +1,934 @@
+fileFormatVersion: 2
+guid: 0dc87dc4acc1bbb4e9046f609b9a066a
+timeCreated: 1491533659
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm1
+    100002: arm1.001
+    100004: arm1.002
+    100006: arm1.003
+    100008: arm1.004
+    100010: arm1.005
+    100012: arm1.006
+    100014: arm1.007
+    100016: arm1.008
+    100018: arm1.008_end
+    100020: arm1.009
+    100022: arm1.009_end
+    100024: arm1.010
+    100026: arm1.011
+    100028: arm1.012
+    100030: arm1.013
+    100032: arm1.014
+    100034: arm1.015
+    100036: arm1.016
+    100038: arm1.017
+    100040: arm1.017_end
+    100042: arm1.018
+    100044: arm1.018_end
+    100046: arm1.019
+    100048: arm1.020
+    100050: arm1.021
+    100052: arm1.022
+    100054: arm1.023
+    100056: arm1.024
+    100058: arm1.025
+    100060: arm1.026
+    100062: arm1.026_end
+    100064: arm1.027
+    100066: arm1.027_end
+    100068: arm1.028
+    100070: arm1.029
+    100072: arm1.030
+    100074: arm1.031
+    100076: arm1.032
+    100078: arm1.033
+    100080: arm1.034
+    100082: arm1.035
+    100084: arm1.035_end
+    100086: arm1.036
+    100088: arm1.036_end
+    100090: Armature
+    100092: CarryArm
+    100094: CarryArm_end
+    100096: finalRoot
+    100098: //RootNode
+    100100: Plane
+    100102: Plane.001
+    100104: Plane.002
+    100106: Plane.003
+    100108: Plane.004
+    100110: Plane.005
+    100112: prime
+    100114: root
+    100116: root.001
+    100118: root.002
+    100120: root.003
+    100122: root.003_end
+    100124: root.006
+    100126: root.007
+    100128: root.008
+    100130: root.009
+    100132: root.010
+    100134: root.011
+    100136: root.012
+    100138: root.012_end
+    100140: root.013
+    100142: root.013_end
+    100144: Sphere
+    400000: arm1
+    400002: arm1.001
+    400004: arm1.002
+    400006: arm1.003
+    400008: arm1.004
+    400010: arm1.005
+    400012: arm1.006
+    400014: arm1.007
+    400016: arm1.008
+    400018: arm1.008_end
+    400020: arm1.009
+    400022: arm1.009_end
+    400024: arm1.010
+    400026: arm1.011
+    400028: arm1.012
+    400030: arm1.013
+    400032: arm1.014
+    400034: arm1.015
+    400036: arm1.016
+    400038: arm1.017
+    400040: arm1.017_end
+    400042: arm1.018
+    400044: arm1.018_end
+    400046: arm1.019
+    400048: arm1.020
+    400050: arm1.021
+    400052: arm1.022
+    400054: arm1.023
+    400056: arm1.024
+    400058: arm1.025
+    400060: arm1.026
+    400062: arm1.026_end
+    400064: arm1.027
+    400066: arm1.027_end
+    400068: arm1.028
+    400070: arm1.029
+    400072: arm1.030
+    400074: arm1.031
+    400076: arm1.032
+    400078: arm1.033
+    400080: arm1.034
+    400082: arm1.035
+    400084: arm1.035_end
+    400086: arm1.036
+    400088: arm1.036_end
+    400090: Armature
+    400092: CarryArm
+    400094: CarryArm_end
+    400096: finalRoot
+    400098: //RootNode
+    400100: Plane
+    400102: Plane.001
+    400104: Plane.002
+    400106: Plane.003
+    400108: Plane.004
+    400110: Plane.005
+    400112: prime
+    400114: root
+    400116: root.001
+    400118: root.002
+    400120: root.003
+    400122: root.003_end
+    400124: root.006
+    400126: root.007
+    400128: root.008
+    400130: root.009
+    400132: root.010
+    400134: root.011
+    400136: root.012
+    400138: root.012_end
+    400140: root.013
+    400142: root.013_end
+    400144: Sphere
+    4300000: Plane.005
+    4300002: Plane.004
+    4300004: Plane.003
+    4300006: Plane.002
+    4300008: Plane.001
+    4300010: Plane
+    4300012: Sphere
+    7400000: MonsterIdle
+    7400002: Armature|CubeAction
+    7400004: Armature|CubeAction.001
+    7400006: MonsterEat
+    7400008: MonsterPunch
+    7400010: MonsterWalk
+    9500000: //RootNode
+    13700000: Plane
+    13700002: Plane.001
+    13700004: Plane.002
+    13700006: Plane.003
+    13700008: Plane.004
+    13700010: Plane.005
+    13700012: Sphere
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: MonsterIdle
+      takeName: Armature|ArmatureAction
+      firstFrame: 1
+      lastFrame: 213
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/finalRoot
+        weight: 1
+      - path: Armature/finalRoot/prime
+        weight: 1
+      - path: Armature/finalRoot/prime/root
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007/arm1.008
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007/arm1.008/arm1.008_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007/arm1.009
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007/arm1.009/arm1.009_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007/CarryArm
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007/CarryArm/CarryArm_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014/arm1.015
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014/arm1.015/arm1.016
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014/arm1.015/arm1.016/arm1.017
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014/arm1.015/arm1.016/arm1.017/arm1.017_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014/arm1.015/arm1.016/arm1.018
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014/arm1.015/arm1.016/arm1.018/arm1.018_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023/arm1.024
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023/arm1.024/arm1.025
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023/arm1.024/arm1.025/arm1.026
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023/arm1.024/arm1.025/arm1.026/arm1.026_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023/arm1.024/arm1.025/arm1.027
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023/arm1.024/arm1.025/arm1.027/arm1.027_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032/arm1.033
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032/arm1.033/arm1.034
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032/arm1.033/arm1.034/arm1.035
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032/arm1.033/arm1.034/arm1.035/arm1.035_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032/arm1.033/arm1.034/arm1.036
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032/arm1.033/arm1.034/arm1.036/arm1.036_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.001
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.001/root.006
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.001/root.006/root.008
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.001/root.006/root.008/root.010
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.001/root.006/root.008/root.010/root.012
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.001/root.006/root.008/root.010/root.012/root.012_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.002
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.002/root.007
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.002/root.007/root.009
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.002/root.007/root.009/root.011
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.002/root.007/root.009/root.011/root.013
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.002/root.007/root.009/root.011/root.013/root.013_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.003
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.003/root.003_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane.001
+        weight: 1
+      - path: Plane.002
+        weight: 1
+      - path: Plane.003
+        weight: 1
+      - path: Plane.004
+        weight: 1
+      - path: Plane.005
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MonsterEat
+      takeName: Armature|ArmatureAction
+      firstFrame: 272
+      lastFrame: 320
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/finalRoot
+        weight: 1
+      - path: Armature/finalRoot/prime
+        weight: 1
+      - path: Armature/finalRoot/prime/root
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007/arm1.008
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007/arm1.008/arm1.008_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007/arm1.009
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007/arm1.009/arm1.009_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007/CarryArm
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007/CarryArm/CarryArm_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014/arm1.015
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014/arm1.015/arm1.016
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014/arm1.015/arm1.016/arm1.017
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014/arm1.015/arm1.016/arm1.017/arm1.017_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014/arm1.015/arm1.016/arm1.018
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014/arm1.015/arm1.016/arm1.018/arm1.018_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023/arm1.024
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023/arm1.024/arm1.025
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023/arm1.024/arm1.025/arm1.026
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023/arm1.024/arm1.025/arm1.026/arm1.026_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023/arm1.024/arm1.025/arm1.027
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023/arm1.024/arm1.025/arm1.027/arm1.027_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032/arm1.033
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032/arm1.033/arm1.034
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032/arm1.033/arm1.034/arm1.035
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032/arm1.033/arm1.034/arm1.035/arm1.035_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032/arm1.033/arm1.034/arm1.036
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032/arm1.033/arm1.034/arm1.036/arm1.036_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.001
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.001/root.006
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.001/root.006/root.008
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.001/root.006/root.008/root.010
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.001/root.006/root.008/root.010/root.012
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.001/root.006/root.008/root.010/root.012/root.012_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.002
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.002/root.007
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.002/root.007/root.009
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.002/root.007/root.009/root.011
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.002/root.007/root.009/root.011/root.013
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.002/root.007/root.009/root.011/root.013/root.013_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.003
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.003/root.003_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane.001
+        weight: 1
+      - path: Plane.002
+        weight: 1
+      - path: Plane.003
+        weight: 1
+      - path: Plane.004
+        weight: 1
+      - path: Plane.005
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MonsterPunch
+      takeName: Armature|ArmatureAction
+      firstFrame: 351
+      lastFrame: 364
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/finalRoot
+        weight: 1
+      - path: Armature/finalRoot/prime
+        weight: 1
+      - path: Armature/finalRoot/prime/root
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007/arm1.008
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007/arm1.008/arm1.008_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007/arm1.009
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007/arm1.009/arm1.009_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007/CarryArm
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007/CarryArm/CarryArm_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014/arm1.015
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014/arm1.015/arm1.016
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014/arm1.015/arm1.016/arm1.017
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014/arm1.015/arm1.016/arm1.017/arm1.017_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014/arm1.015/arm1.016/arm1.018
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014/arm1.015/arm1.016/arm1.018/arm1.018_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023/arm1.024
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023/arm1.024/arm1.025
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023/arm1.024/arm1.025/arm1.026
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023/arm1.024/arm1.025/arm1.026/arm1.026_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023/arm1.024/arm1.025/arm1.027
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023/arm1.024/arm1.025/arm1.027/arm1.027_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032/arm1.033
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032/arm1.033/arm1.034
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032/arm1.033/arm1.034/arm1.035
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032/arm1.033/arm1.034/arm1.035/arm1.035_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032/arm1.033/arm1.034/arm1.036
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032/arm1.033/arm1.034/arm1.036/arm1.036_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.001
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.001/root.006
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.001/root.006/root.008
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.001/root.006/root.008/root.010
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.001/root.006/root.008/root.010/root.012
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.001/root.006/root.008/root.010/root.012/root.012_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.002
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.002/root.007
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.002/root.007/root.009
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.002/root.007/root.009/root.011
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.002/root.007/root.009/root.011/root.013
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.002/root.007/root.009/root.011/root.013/root.013_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.003
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.003/root.003_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane.001
+        weight: 1
+      - path: Plane.002
+        weight: 1
+      - path: Plane.003
+        weight: 1
+      - path: Plane.004
+        weight: 1
+      - path: Plane.005
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MonsterWalk
+      takeName: Armature|ArmatureAction
+      firstFrame: 441
+      lastFrame: 460
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/finalRoot
+        weight: 1
+      - path: Armature/finalRoot/prime
+        weight: 1
+      - path: Armature/finalRoot/prime/root
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007/arm1.008
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007/arm1.008/arm1.008_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007/arm1.009
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007/arm1.009/arm1.009_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007/CarryArm
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1/arm1.002/arm1.003/arm1.004/arm1.005/arm1.006/arm1.007/CarryArm/CarryArm_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014/arm1.015
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014/arm1.015/arm1.016
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014/arm1.015/arm1.016/arm1.017
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014/arm1.015/arm1.016/arm1.017/arm1.017_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014/arm1.015/arm1.016/arm1.018
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.010/arm1.011/arm1.012/arm1.013/arm1.014/arm1.015/arm1.016/arm1.018/arm1.018_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023/arm1.024
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023/arm1.024/arm1.025
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023/arm1.024/arm1.025/arm1.026
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023/arm1.024/arm1.025/arm1.026/arm1.026_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023/arm1.024/arm1.025/arm1.027
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.019/arm1.020/arm1.021/arm1.022/arm1.023/arm1.024/arm1.025/arm1.027/arm1.027_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032/arm1.033
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032/arm1.033/arm1.034
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032/arm1.033/arm1.034/arm1.035
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032/arm1.033/arm1.034/arm1.035/arm1.035_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032/arm1.033/arm1.034/arm1.036
+        weight: 1
+      - path: Armature/finalRoot/prime/root/arm1.001/arm1.028/arm1.029/arm1.030/arm1.031/arm1.032/arm1.033/arm1.034/arm1.036/arm1.036_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.001
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.001/root.006
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.001/root.006/root.008
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.001/root.006/root.008/root.010
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.001/root.006/root.008/root.010/root.012
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.001/root.006/root.008/root.010/root.012/root.012_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.002
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.002/root.007
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.002/root.007/root.009
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.002/root.007/root.009/root.011
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.002/root.007/root.009/root.011/root.013
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.002/root.007/root.009/root.011/root.013/root.013_end
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.003
+        weight: 1
+      - path: Armature/finalRoot/prime/root/root.003/root.003_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane.001
+        weight: 1
+      - path: Plane.002
+        weight: 1
+      - path: Plane.003
+        weight: 1
+      - path: Plane.004
+        weight: 1
+      - path: Plane.005
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
